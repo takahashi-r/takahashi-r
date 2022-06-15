@@ -1,3 +1,8 @@
+https://komarev.com/ghpvc/?username=takahashi-r
+
+https://qiita-badge.apiapi.app/s/takahashi-ry/followers.svg
+
+
 ### Hi there 👋
 
 <!--
