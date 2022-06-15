@@ -1,6 +1,6 @@
-https://komarev.com/ghpvc/?username=takahashi-r
+[_![takahashi-r](https://komarev.com/ghpvc/?username=takahashi-r)
 
-https://qiita-badge.apiapi.app/s/takahashi-ry/followers.svg
+[_![takahashi-r](https://qiita-badge.apiapi.app/s/takahashi-r/followers.svg)
 
 
 ### Hi there 👋
